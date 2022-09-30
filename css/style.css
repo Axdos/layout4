@@ -1,0 +1,67 @@
+*{
+    margin: 0%;
+}
+
+header{
+    font-size: 40px;
+    background-color: rgb(123, 8, 8);
+    text-align: center;
+    color: rgb(236, 229, 102);    
+}
+.content{
+  overflow: hidden;
+}
+.navigation{
+    font-size: 30px;
+    background-color: rgb(157, 22, 22);
+    text-align: center;
+    color: rgb(236, 229, 102);
+    height: 350px;
+    width: 20%;
+    float: left;   
+}
+.middle_content{
+    font-size: 40px;
+    background-color: rgb(198, 25, 25);
+    text-align: center;
+    color: rgb(236, 229, 102);
+    height: 350px;
+    width: 60%;
+    float: left;
+}
+.sidebar{
+    font-size: 30px;
+    background-color: rgb(174, 17, 17);
+    text-align: center;
+    color: rgb(236, 229, 102);
+    height: 350px;
+    width: 20%;
+    float: left;
+}
+.ads{
+    overflow: hidden;
+}
+.ads_1{
+    font-size: 30px;
+    background-color: rgb(228, 49, 49);
+    text-align: center;
+    color: rgb(236, 229, 102);
+    height: 250px;
+    width: 70%;
+    float: left;
+}
+.images{
+    font-size: 30px;
+    background-color: rgb(244, 63, 63);
+    text-align: center;
+    color: rgb(236, 229, 102);
+    height: 250px;
+    width: 30%;
+    float: right;
+}
+footer{
+    font-size: 25px;
+    background-color: rgb(253, 56, 56);
+    text-align: center;
+    color: rgb(236, 229, 102);  
+}
